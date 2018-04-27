@@ -2,6 +2,7 @@
 List of valuable resources for learning to develop visual studio extension packages.
 
 - https://stackoverflow.com/questions/1094366/how-do-i-write-to-the-visual-studio-output-window-in-my-custom-tool
+- https://msdn.microsoft.com/en-us/library/bb166236.aspx
 
 ## Roslyn Compiler Services
 List of valuable resources for learning Roslyn Compiler Services.
